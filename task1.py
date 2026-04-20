@@ -41,3 +41,5 @@ plt.xlabel("Age")
 plt.ylabel("Frequency")
 
 plt.show()
+
+#updated
